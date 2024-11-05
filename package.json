@@ -6,7 +6,8 @@
   "license": "ISC",
   "main": "index.js",
   "dependencies": {
-    "debug": "^2.6.8"
+    "debug": "^2.6.8",
+    "node-record-lpcm16": "^1.0.1"
   },
   "devDependencies": {
     "standard": "^13.0.2"
