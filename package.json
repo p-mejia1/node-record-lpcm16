@@ -9,11 +9,12 @@
     "debug": "^2.6.8",
     "node-record-lpcm16": "^1.0.1"
   },
+  "scripts": {
+    "start": "node index.js",
+    "test": "standard"
+  },
   "devDependencies": {
     "standard": "^13.0.2"
-  },
-  "scripts": {
-    "test": "standard"
   },
   "keywords": [
     "sox",
@@ -29,4 +30,5 @@
     "url": "https://github.com/gillesdemey/node-record-lpcm16/issues"
   },
   "homepage": "https://github.com/gillesdemey/node-record-lpcm16"
+
 }
